@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="CompactGraphics">
+      <HintPath>..\..\..\semester 1 2020\DVDSoftConpanion\CompactGraphics\bin\Debug\netstandard2.0\CompactGraphics.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
