@@ -33,20 +33,17 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="CompactGraphics">
-      <HintPath>..\..\..\semester 1 2020\DVDSoftConpanion\CompactGraphics\bin\Debug\netstandard2.0\CompactGraphics.dll</HintPath>
+    <Reference Include="CompactGraphics, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Console-Graphics\CompactGraphics\bin\Debug\netstandard2.0\CompactGraphics.dll</HintPath>
     </Reference>
     <Reference Include="Menus">
       <HintPath>..\Menus\bin\Debug\netstandard2.0\Menus.dll</HintPath>
-    </Reference>
-    <Reference Include="MouseSupport">
-      <HintPath>..\..\MouseSupportTest\MouseSupport\bin\Debug\netstandard2.0\MouseSupport.dll</HintPath>
     </Reference>
     <Reference Include="netstandard, Version=2.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
-    <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />

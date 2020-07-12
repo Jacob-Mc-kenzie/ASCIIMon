@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <Reference Include="CompactGraphics">
-      <HintPath>..\..\..\semester 1 2020\DVDSoftConpanion\CompactGraphics\bin\Debug\netstandard2.0\CompactGraphics.dll</HintPath>
+      <HintPath>..\..\Console-Graphics\CompactGraphics\bin\Debug\netstandard2.0\CompactGraphics.dll</HintPath>
     </Reference>
   </ItemGroup>
 
